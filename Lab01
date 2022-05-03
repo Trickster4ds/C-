@@ -3,7 +3,7 @@ using System;
 namespace Lab1_ClassComplex
 {
     public class Complex
-    {
+        {
         public double Real { get; set; }
         public double Imaginary { get; set; }
 
