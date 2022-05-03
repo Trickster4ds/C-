@@ -43,7 +43,7 @@ namespace Lab1_ClassComplex
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Лабораторная 1 - Инкапсуляция");
+            Console.WriteLine("Лабораторная работа 1 - Инкапсуляция");
             Console.WriteLine("Выполнил - Ситников Сергей");
 
             Complex firstNumber = new Complex() { Real = 3, Imaginary = 0.5 };
