@@ -3,7 +3,7 @@ using System;
 namespace Lab1_ClassComplex
 {
     public class Complex
-        {
+    {
         public double Real { get; set; }
         public double Imaginary { get; set; }
 
@@ -44,7 +44,7 @@ namespace Lab1_ClassComplex
         static void Main(string[] args)
         {
             Console.WriteLine("Лабораторная 1 - Инкапсуляция");
-            Console.WriteLine("Выполнил - Братанов Данил");
+            Console.WriteLine("Выполнил - Ситников Сергей");
 
             Complex firstNumber = new Complex() { Real = 3, Imaginary = 0.5 };
             Complex secondNumber = new Complex() { Real = 2, Imaginary = 0.8 };
